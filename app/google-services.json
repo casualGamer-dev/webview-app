@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493859775446",
+    "project_id": "infernalvoidscans-6ddda",
+    "storage_bucket": "infernalvoidscans-6ddda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493859775446:android:dbbe262f0ad31b1001ba77",
+        "android_client_info": {
+          "package_name": "com.toivi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493859775446-8g7jlmccef90bt40te46rmt1rdmrtrce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNiMYP7oWy4vi2zxhSuH7aS4wQyNqgp9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493859775446-8g7jlmccef90bt40te46rmt1rdmrtrce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
